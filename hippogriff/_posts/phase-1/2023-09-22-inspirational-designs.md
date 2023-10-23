@@ -53,7 +53,7 @@ Superhuman reminds you of keyboard shortcuts when you _don’t_ use them, hintin
 
 Finally, Superhuman hits another of our other discoveries: older adults’ fondness of all-encompassing guides. Superhuman offers a [giant PDF user guide](https://download.superhuman.com/Superhuman%20Keyboard%20Shortcuts.pdf) with every single keyboard shortcut that can be printed and kept on a wall, so if you’re looking for a function, you never have to memorize it. We’ll keep these lessons in mind as we build.
 
-### Kat on Apple Notes
+### Kat's Notes About Apple Notes
 
 {% include figure image_path="/images/inspirational-designs/apple-notes-1.png" alt="" caption="Hello world, 10-4" %}
 
@@ -82,7 +82,7 @@ In our design work this semester we want to create a similar model of stripped, 
 
 We exist in an era where technology is defined by its endless features, making it easy for the user experience to take a backseat. This oversight becomes even more pronounced for older adults who might find themselves navigating an alien landscape with each new device. Yet, in this complex digital ecosystem, Amazon's Kindle emerges as a rare example of thoughtful design.
 
-{% include figure image_path="/images/inspirational-designs/kindle-1.png.png" alt="" caption="K for Kindling, too?" %}
+{% include figure image_path="/images/inspirational-designs/kindle-1.png" alt="" caption="K for Kindling, too?" %}
 
 The first thing that strikes you about the Kindle is its refreshing simplicity. Unlike devices that overwhelm users with a multitude of functions (many of which remain untouched), the Kindle embraces a return-to-basics philosophy. With intuitive gestures mimicking the act of reading a physical book – a swipe to turn a page, a tap to access the library – it offers convenience without abandoning the familiar. In this way, it bridges the gap, providing a comfortable digital reading experience reminiscent of traditional books.
 

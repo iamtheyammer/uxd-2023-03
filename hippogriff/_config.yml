@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   to help older adults with technology.
 baseurl: "/hippogriff" # the subpath of your site, e.g. /blog
 url: "https://olincollege.github.io/uxd-2023-03" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 # theme: minima
@@ -53,6 +53,9 @@ defaults:
 
 
 include: ["_pages"]
+
+exclude:
+  - Makefile
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -40,9 +40,9 @@ From our larger portfolio of ideas, the 3 solutions we chose to move forward wit
 Before diving into our discussions, we outlined a few criteria that would be critical to our evaluation of each idea:
 
 1. **Alignment with the Primary Goal:** How closely does the solution align with our primary objective of simplifying technology use for older adults?
-2. **Impact: **Does the solution have the potential to make a significant positive difference in user experience?
-3. **Innovation: **Does the solution provide a fresh or unique approach, or does it reiterate existing solutions?
-4. **Trade Offs: **What are the pitfalls of each design and how would they unintentionally complicate technology for older adults or introduce unnecessary friction into the user experience?
+2. **Impact:** Does the solution have the potential to make a significant positive difference in user experience?
+3. **Innovation:** Does the solution provide a fresh or unique approach, or does it reiterate existing solutions?
+4. **Trade Offs:** What are the pitfalls of each design and how would they unintentionally complicate technology for older adults or introduce unnecessary friction into the user experience?
 
 With these criteria in mind, each team member made concept sketches for what each of these solutions could look like. We then reconvened as a group and discussed each solution in more detail, discussing how likely they are to realistically improve the usability of technology for older adults. We ended up eliminating Easy Mode and Consumer Reports.
 
