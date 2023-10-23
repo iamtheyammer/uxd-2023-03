@@ -51,10 +51,12 @@ jobs:
         env:
           JEKYLL_ENV: production
         working-directory: ${{ env.working-directory }}
+      - name: Copy _site to root
+        run: |
+          mv ./hippogriff/_site/ .
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
-        working-directory: ${{ env.working-directory }}
 
   # Deployment job
   deploy:
