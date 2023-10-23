@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-remote-theme
 
 # Minimal Mistakes settings
 breadcrumbs: true

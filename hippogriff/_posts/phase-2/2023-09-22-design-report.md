@@ -14,7 +14,7 @@ Now that we’ve learned about our users, this phase is all about proposing and 
 
 ## Needs Assessment Overview
 
-The interface should be familiar and easy to find so older adults can adopt it with little trouble. During interviews, we learned that older adults often do not know how to use most of the features of many software applications, including email, texting, banking, and word processing. Several people we talked to reference paper cheat sheets for any task they do not do very often. Our software would make cheat sheets available in a familiar format for any new application or task at the click of a button. Hopefully, using our software would take the place of asking more tech-savvy people for help, which can feel embarrassing for older adults and make them feel incompetent.
+The interface should be familiar and easy to find so older adults can adopt it with little trouble. During interviews, we learned that older adults often do not know how to use most of the features of many software applications, including email, texting, banking, and word processing. Several people we talked to reference paper cheat sheets for tasks they do not do very often. Our software would make cheat sheets available in a familiar format for any new application or task at the click of a button. Hopefully, using our software would take the place of asking more tech-savvy people for help, which can feel embarrassing for older adults and make them feel incompetent.
 
 {% include figure image_path="/images/design-report/1.jpeg" alt="Identifying user needs" caption="" %}
 
