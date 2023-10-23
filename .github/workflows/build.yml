@@ -35,8 +35,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Copy ruby version file
-        run: cp ./hippogriff/.ruby-version ./.ruby-version
+      - name: Copy ruby files to root
+        run: |
+          cp ./hippogriff/.ruby-version ./.ruby-version
+          cp ./hippogriff/Gemfile ./Gemfile
+          cp ./hippogriff/Gemfile.lock ./Gemfile.lock
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
