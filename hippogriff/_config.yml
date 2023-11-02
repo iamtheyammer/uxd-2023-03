@@ -58,6 +58,8 @@ include: ["_pages"]
 
 exclude:
   - Makefile
+  - Gemfile
+  - Gemfile.lock
   - vendor/
   - tmp/
 # Exclude from processing.
