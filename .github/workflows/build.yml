@@ -34,7 +34,7 @@ jobs:
       - name: Move hippogriff files to root
         run: |
           mv .git ./hippogriff
-          find . -mindepth 1 ! -regex '^./hippogriff\(/.*\)?' -delete
+          find . -mindepth 1 ! -regex '^./hippogriff\(/.*\)?' ! -regex '^./\.git\(/.*\)?' -delete
           mv ./hippogriff/* .
           mv ./hippogriff/.ruby-version .
       - name: Setup Ruby
