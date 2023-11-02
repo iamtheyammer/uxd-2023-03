@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   to help older adults with technology.
 baseurl: "/hippogriff" # the subpath of your site, e.g. /blog
 url: "https://olincollege.github.io/uxd-2023-03" # the base hostname & protocol for your site, e.g. http://example.com
+repository: olincollege/uxd-2023-03
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
