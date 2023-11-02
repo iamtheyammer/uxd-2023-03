@@ -33,8 +33,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Move hippogriff files to root
         run: |
-          find . -mindepth 1 ! -regex '^./hippogriff\(/.*\)?'
-          find . -mindepth 1 ! -regex '^./hippogriff\(/.*\)?' -delete
+          find . -mindepth 1 ! -regex '^(./hippogriff(/.*)?|\.git(/.*)?)$' -delete
           mv ./hippogriff/* .
           mv ./hippogriff/.ruby-version .
       - name: Setup Ruby
