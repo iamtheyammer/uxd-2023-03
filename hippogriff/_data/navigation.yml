@@ -12,14 +12,14 @@ phases:
   - title: "Phase 1"
     children:
       - title: "Design Brief"
-        url: /phase-1/design-brief/
+        url: /phase-1/design-brief
       - title: "Consent Narrative"
-        url: /phase-1/consent-narrative/
+        url: /phase-1/consent-narrative
       - title: "Inspirational Designs"
-        url: /phase-1/inspirational-designs/
+        url: /phase-1/inspirational-designs
   - title: "Phase 2"
     children:
       - title: "Design Report"
-        url: /phase-2/design-report/
+        url: /phase-2/design-report
       - title: "Feature Idea Description"
-        url: /phase-2/feature-idea-description/
+        url: /phase-2/feature-idea-description
