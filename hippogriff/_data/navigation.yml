@@ -23,3 +23,11 @@ phases:
         url: /phase-2/design-report
       - title: "Feature Idea Description"
         url: /phase-2/feature-idea-description
+  - title: "Phase 3"
+    children:
+      - title: "Internal Design Refinement"
+        url: /phase-3/internal-design-refinement
+      - title: "Usability Testing Plan"
+        url: /phase-3/usability-testing-plan
+      - title: "Usability Testing Results"
+        url: /phase-3/usability-testing-results
