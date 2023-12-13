@@ -7,6 +7,8 @@ main:
     url: /categories/#phase-2
   - title: "Phase 3"
     url: /categories/#phase-3
+  - title: "Phase 4"
+    url: /categories/#phase-4
 
 phases:
   - title: "Phase 1"
@@ -31,3 +33,7 @@ phases:
         url: /phase-3/usability-testing-plan
       - title: "Usability Testing Results"
         url: /phase-3/usability-testing-results
+  - title: "Phase 4"
+    children:
+      - title: "Final Refinement"
+        url: /phase-4/final-refinement

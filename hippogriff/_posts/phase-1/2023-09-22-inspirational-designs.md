@@ -67,7 +67,7 @@ That’s not to say there aren’t well designed additional tools. There are sev
 
 Under the first icon, signified with the characters Aa, are standard formatting tools such as headings, bold text, bullets, etc. The next two icons, the checklist and table, don’t require any sort of submenu. Onced tapped they insert the desired element directly into the note. While the stylization of these elements isn’t customizable, it doesn't need to be. Instead, the desired functions are accessed with minimal interaction. Menus that lead into other menus or submenus with an abundance of superfluous options were often cited in our interviews as stressful and frustrating. This minimalist approach cuts down on this issue significantly.
 
-{% include figure image_path="/images/inspirational-designs/aple-notes-2.jpeg" alt="" caption="Format undercover" %}
+{% include figure image_path="/images/inspirational-designs/apple-notes-2.jpeg" alt="" caption="Format undercover" %}
 
 Furthermore, these first three icons correspond to the features that our users expressed they used the most. Specifically, the checklist is very popular for shopping and todo lists.
 
